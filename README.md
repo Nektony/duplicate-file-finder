@@ -64,7 +64,12 @@ We use this repository to:
 
 We've published a transparent, open methodology for evaluating duplicate finder apps on macOS — 53 criteria across 3 levels, with standardized test datasets.
 
-See [METHODOLOGY.md](METHODOLOGY.md) for the summary, or read the [full methodology on our website](https://nektony.com/resources/duplicate-finder-methodology).
+- [Full methodology](METHODOLOGY.md) — 53 criteria, scoring system, testing protocol
+- [Report template](report-template.csv) — CSV template for recording evaluation results
+- [QuickTest dataset](https://github.com/Nektony/duplicate-file-finder/releases/download/v1.0/quicktest-df.zip) (~150 MB) — minimal dataset for quick evaluation
+- [Test dataset scripts](https://github.com/Nektony/duplicate-file-finder/releases/download/v1.0/scripts-df.zip) — scripts to generate datasets DS1–DS7
+- [Interactive calculator](https://nektony.com/resources/duplicate-finder-calculator) — score any app against 53 criteria
+
 
 ## Changelog
 
