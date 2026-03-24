@@ -34,13 +34,14 @@ Duplicate File Finder scans your Mac, external drives, and cloud storage to find
 
 ## Screenshots
 
-*Coming soon*
+![Duplicate-File-Finder-light](https://github.com/user-attachments/assets/226ae93b-a8c2-4faa-867a-7244b4e06927)
+
 
 ## System Requirements
 
 | | |
 |---|---|
-| **OS** | macOS 11.0 (Big Sur) or later |
+| **OS** | macOS 10.13 or later |
 | **Architecture** | Intel & Apple Silicon |
 
 ## Download
@@ -57,13 +58,13 @@ We use this repository to:
 
 - **Share release notes and changelog** — so you always know what's new
 - **Publish our evaluation methodology** — an open framework for comparing duplicate finders
-- **Provide a direct communication channel** — beyond traditional support
+
 
 ## Evaluation Methodology
 
 We've published a transparent, open methodology for evaluating duplicate finder apps on macOS — 53 criteria across 3 levels, with standardized test datasets.
 
-See [METHODOLOGY.md](METHODOLOGY.md) for the summary, or read the [full methodology on our website](https://nektony.com/blog/duplicate-finder-evaluation-methodology).
+See [METHODOLOGY.md](METHODOLOGY.md) for the summary, or read the [full methodology on our website](https://nektony.com/resources/duplicate-finder-methodology).
 
 ## Changelog
 
@@ -73,4 +74,4 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 - [Help Center](https://nektony.com/support)
 - [Email](mailto:support@nektony.com)
-- [Website](https://nektony.com/duplicate-finder-remover)
+- [Website](https://nektony.com/duplicate-finder-free)
