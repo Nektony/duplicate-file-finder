@@ -1141,6 +1141,10 @@ A minimal dataset (~150 MB) for fast initial testing:
 
 **Limitations:** The QuickTest dataset does not test stability on large volumes (criterion 1.7) or precise performance baseline (criterion 2.5). Use DS2–DS4 for those.
 
+### Downloads
+
+- [QuickTest dataset](https://github.com/Nektony/duplicate-file-finder/releases/download/v1.0/quicktest-df.zip) (~150 MB) — minimal dataset for quick evaluation
+- [Test dataset scripts](https://github.com/Nektony/duplicate-file-finder/releases/download/v1.0/scripts-df.zip) — scripts to generate datasets DS1–DS7
 ---
 
 ## Performance baseline
