@@ -1383,5 +1383,5 @@ Free to copy, redistribute, adapt, create derivative works, use commercially. At
 
 ---
 
-*Methodology version: 1.1 | Last updated: March 2026*
+*Methodology version: 3.6.2| Last updated: March 2026*
 *Interactive calculator: [nektony.com/resources/duplicate-finder-calculator](https://nektony.com/resources/duplicate-finder-calculator)*
