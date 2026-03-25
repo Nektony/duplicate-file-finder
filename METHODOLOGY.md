@@ -2,7 +2,7 @@
 
 *53 criteria. Weighted scoring. Reproducible testing protocol.*
 
-**Version:** 1.1 (March 2026)
+**Version:** 3.6.2 (March 2026)
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 **Interactive calculator:** [nektony.com/resources/duplicate-finder-calculator](https://nektony.com/resources/duplicate-finder-calculator)
 
