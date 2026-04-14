@@ -77,6 +77,6 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 
 ## Support
 
-- [Help Center](https://nektony.com/support)
+- [Help Center](https://nektony.com/help/duplicate-file-finder)
 - [Email](mailto:support@nektony.com)
 - [Website](https://nektony.com/duplicate-finder-free)
