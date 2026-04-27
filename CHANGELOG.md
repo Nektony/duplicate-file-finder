@@ -2,6 +2,19 @@
 
 All notable changes to Duplicate File Finder will be documented in this file.
 
+## [9.0.1] - April 2026
+
+### Fixed
+- Minor refinements and bug fixes
+
+## [9.0] - April 2026
+
+### Improved
+- Redesigned interface
+- Select by Folders
+- Full VoiceOver support
+- Stability
+
 ## [8.5.3] - February 2026
 
 ### Improved
