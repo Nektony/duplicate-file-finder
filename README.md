@@ -3,7 +3,7 @@
 > Find and remove duplicate files to free up disk space on your Mac.
 
 [![macOS](https://img.shields.io/badge/macOS-10.13%2B-blue)](#system-requirements)
-[![Version](https://img.shields.io/badge/version-8.5.3-green)](#changelog)
+[![Version](https://img.shields.io/badge/version-9.2-green)](#changelog)
 [![App Store](https://img.shields.io/badge/Mac_App_Store-★★★★★-brightgreen)](#)
 
 Duplicate File Finder scans your Mac, external drives, and cloud storage to find exact duplicates and similar files — then helps you safely remove them and reclaim disk space.
