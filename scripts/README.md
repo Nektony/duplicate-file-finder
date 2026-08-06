@@ -27,11 +27,6 @@ Finds exact duplicate files on macOS by comparing file content (MD5 hash) — no
 - **Time.** Hashing thousands of files takes a while — for very large folders, expect to wait.
 - Not beginner-friendly. If you're not comfortable in Terminal, the [Duplicate File Finder app](https://nektony.com/duplicate-finder-free/download) does the same job with a Removal History and one-click restore.
 
-## Tested on
-
-- macOS [версии — заменить на реальные после проверки]
-
-If you've used it successfully on a different version, [open a PR](https://github.com/Nektony/duplicate-file-finder/pulls) to add it here.
 
 ---
 
