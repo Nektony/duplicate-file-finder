@@ -58,6 +58,7 @@ We use this repository to:
 
 - **Share release notes and changelog** — so you always know what's new
 - **Publish our evaluation methodology** — an open framework for comparing duplicate finders
+- **Publish companion scripts** — transparent, MIT-licensed alternatives for users who prefer Terminal over an app
 
 
 ## Evaluation Methodology
@@ -70,7 +71,12 @@ We've published a transparent, open methodology for evaluating duplicate finder 
 - [Test dataset scripts](https://github.com/Nektony/duplicate-file-finder/releases/download/v1.0/scripts-df.zip) — scripts to generate datasets DS1–DS7
 - [Interactive calculator](https://nektony.com/resources/duplicate-finder-calculator) — score any app against 53 criteria
 
+## Companion Scripts
 
+Prefer the command line? [`scripts/nektony_find_duplicates.sh`](scripts/) finds exact duplicates via MD5 hashing — no app install required. See [scripts/README.md](scripts/README.md) for usage, requirements, and what it does (and doesn't) do.
+
+> This script only finds and reports duplicates — it doesn't delete anything. For similarity matching (near-duplicate photos/audio) and safe Trash-based removal with undo, use the app above.
+> 
 ## Changelog
 
 See [CHANGELOG.md](CHANGELOG.md) for version history.
